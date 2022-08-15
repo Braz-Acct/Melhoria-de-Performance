@@ -36,7 +36,7 @@ dd {
 	margin: 0;
 	padding: 0 0 0 8px;
 	font: bold 15px/45px Arial, Helvetica, sans-serif;
-	white-space: nowrap;
+	white-space: wrap;
 }
 
 dd + dd {
