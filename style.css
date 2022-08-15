@@ -1,0 +1,56 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	background-color: #fafafa;
+}
+
+h5 {
+	height: 10px;
+	padding: 10px 12px 0;
+	color: #717d85;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+dl > div {
+	background: #fff;
+	padding: 24px 0 0 0;
+}
+
+dt {
+	position: sticky;
+	position: -webkit-sticky;
+	top: -1px;
+	margin: 0;
+	padding: 2px 0 0 12px;
+	color: #fff;
+	border-bottom: 1px solid #989ea4;
+	border-top: 1px solid #717d85;
+	background: #b8c1c8;
+	font: bold 18px/21px Helvetica, Arial, sans-serif;
+}
+
+dd {
+	margin: 0;
+	padding: 0 0 0 8px;
+	font: bold 15px/45px Arial, Helvetica, sans-serif;
+	white-space: nowrap;
+}
+
+dd + dd {
+	border-top: 1px solid #ccc;
+}
+
+.positivo {
+	color: green;
+}
+
+.negativo {
+	color: red;
+}
+
+abbr {
+	font-weight: 300;
+}

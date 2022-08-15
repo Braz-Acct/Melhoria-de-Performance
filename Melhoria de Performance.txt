@@ -1,0 +1,55 @@
+LISTA DE ATRIBUIÇÃO DE PERFORMANCE
+
+BACKEND
+a. requisições de api - em analise/necessário
+b. customizações - analisado/necessário
+c. tempo de chamadas - em analise/incerto
+d. boas praticas de js - em analise/necessário
+
+FRONTEND
+a. boas praticas css - em analise/necessário
+b. sonar cloud - analisado/necessário
+c. ligth house - analisado/necessário
+d. recursos gráficos - analisado/não necessário
+e. recursos de placeholders - analisado/necessário
+
+VTEX
+a. recursos não utilizados - em analise/necessário
+b. apps não utilizados - em analise/necessário
+
+
+MELHORIA DE PERFORMANCE MOBILE
+
+. Reduza o Javascript - A redução de arquivos javascript pode diminuir o tamanho de payloads e o tempo de análize de scripts
+
+. Reduza o Javascript não usado - Para diminuir o consumo de bytes da atividade da rede, reduza o Javascript não usado e adie o carregamento de scripts até que eles sejam necessários
+
+. Remova módulos duplicados em pacotes Javascripts - Remover módulos Javascript grandes e duplicados de pácotes para reduzir bytes desnecessários consumidos por atividades da rede
+
+. Garanta que o texto continue visivel durante o carregamento da webfont - Use o recurso de CSS de exibição de fonte para garantir que o texto posssa ser visto pelo usuário enquanto as webfonts são carregadas
+
+. Disponibilize recursos estáticos com uma política de cache eficiente - Um cache com ciclo de vida longo pode acelerar visitas repetidas à sua página
+
+. Reduza o tempo de execução de JavaScript - Diminua o tempo gasto na análise, compilação e execução de JS. Você perceberá que exibir payloads de JS menores ajuda a fazer isso
+
+
+MELHORIA DE PERFORMANCE DESKTOP
+
+. Reduza o tempo de resposta inicial do servidor - Mantenha curto o tempo de resposta do servidor para o documento principal, já que todos os outros pedidos dependem dele
+
+. Reduza o JavaScript - A redução de arquivos JavaScript pode diminuir o tamanho de payloads e o tempo de análise de scripts
+
+. Reduza o JavaScript não usado - Para diminuir o consumo de bytes da atividade da rede, reduza o JavaScript não usado e adie o carregamento de scripts até que eles sejam necessários
+
+
+
+
+
+
+
+
+
+
+
+
+
